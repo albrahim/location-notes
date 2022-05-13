@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Location Notes</string>
+    <string name="title_activity_info">Location Info</string>
+    <string name="title_activity_list">Location List</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
